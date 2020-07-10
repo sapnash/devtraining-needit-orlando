@@ -3,6 +3,7 @@
         <active>true</active>
         <can_edit_in_studio>false</can_edit_in_studio>
         <enforce_license>log</enforce_license>
+        <guided_setup_guid/>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
         <license_category/>
@@ -34,4 +35,44 @@
         <vendor_prefix/>
         <version>1.0.0</version>
     </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ed1c24</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>logo</file_name>
+        <hash>1a08860add1e2428e2c44364a551e5e289b2735064156a62db7447958b2ca44e</hash>
+        <image_height>34</image_height>
+        <image_width>42</image_width>
+        <size_bytes>521</size_bytes>
+        <size_compressed>544</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-09 16:58:52</sys_created_on>
+        <sys_id>9519a1d3dbf1101027d4478239961945</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-09 16:58:52</sys_updated_on>
+        <table_name>ZZ_YYsys_app</table_name>
+        <table_sys_id>6ead8e780f603200cd674f8ce1050ed1</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="9519a1d3dbf1101027d4478239961945">9519a1d3dbf1101027d4478239961945</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-09 16:58:52</sys_created_on>
+        <sys_id>d519a1d3dbf1101027d4478239961945</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AQkC9v2JUE5HDQoaCgAAAA1JSERSAAAAKgAAACIIAgAAAKby3GEAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAZ5JREFUWEftljFLw0AUx2OtUqUoZLZDgwEHyVcQgijYyQ79BAEnF4Vm8QtkEFcDAfcO3YKgcfArFLdAOmRuoTXUtFbiJfewTXN33KIZzI9A/u/x5z1yuXfJWhRFQn6U4J4TRfscKdrnSNE+R4r2VDxrXJOHi+s89FC2Hzb0GTZgOG1E0BePyPRqf7AXX6N7D1KR93GGk+0pZHhtNCjtn9u4KKnEy/tSktNGg7j4/fCuC1LoBg3rCzRG3bqRE4GWFwsEw8aC+LuB6p5MehAALVO8VUEDnDYWxKevlw5ALehcoG01NvsQxnDaWFB+ttBmPjLmEKzQrPrGJpacNjqUwZO0nYcm6FWWXjOy+S6WGbK7gQB97o8N0X/aViBK0bM/48kGOG1EmMeOUK/YruibmTV8m6fqctoIkNo7VnJs/aBWfVd81csQIg7LEreNCfHp3cll5rVJWqUFUlAaG3FdThsLyuL3jFFNDhyIYjwr7CRC0XdtbT2RvDY6pMFz9OHjKTo9ZtdygGsB6VnitDGhzP1fwd75v07RPkf+c3tB+AbhLo9sKuOH8QAAAABJRU5ErkJggmbEYjUJAgAA</data>
+        <length>712</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="9519a1d3dbf1101027d4478239961945">9519a1d3dbf1101027d4478239961945</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-09 16:58:52</sys_created_on>
+        <sys_id>5919a1d3dbf1101027d4478239961945</sys_id>
+    </sys_attachment_doc>
 </record_update>
